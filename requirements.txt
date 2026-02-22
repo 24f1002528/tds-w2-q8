@@ -20,7 +20,7 @@ httplib2==0.20.2
 hyperlink==21.0.0
 idna==3.3
 importlib-metadata==4.6.4
-incremental==21.3.0
+incremental==24.11.0
 jeepney==0.7.1
 Jinja2==3.0.3
 jsonpatch==1.32
